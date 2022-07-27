@@ -5,7 +5,7 @@
 - 📫 I'm based in Nigeria
 - You can contact me @iamlawrenceonoja@gmail.com
 - SKILLS
-- HTML, CSS, Javascript, Bootstrap, Python, Flask, PostgreSql, SqlAlchemy, API Development
+- HTML, CSS, Javascript, Bootstrap, Python, Flask, PostgreSql, SqlAlchemy, API Development, AWS, Kubernetes, CI/CD
 
 <!---
 iamlawrenceonoja/iamlawrenceonoja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
